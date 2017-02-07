@@ -20,6 +20,7 @@
       "styles": [
         "../node_modules/bootstrap/dist/css/bootstrap.css",
         "../node_modules/font-awesome/css/font-awesome.css",
+        "../node_modules/pixeden-stroke-7-icon/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css",
         "styles.css"
       ],
       "scripts": [
